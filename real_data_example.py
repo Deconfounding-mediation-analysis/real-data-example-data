@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""@author: Yubai Yuan
-"""
 
 
 # This is the code for reproducing the real data example resutls in Table 3
